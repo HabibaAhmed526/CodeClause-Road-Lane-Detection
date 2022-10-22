@@ -6,7 +6,7 @@ Detecting Lane lines is one of the most fundamental concepts for building a Self
 You need OpenCV to run this project on your local machine and it can be installed simply by a single command - <br>
 ```pip install opencv-python```
 
-![alt-text](white.gif)
+![alt-text](demo.gif)
 
 ## How to run
 1. Download/Clone the repo.
